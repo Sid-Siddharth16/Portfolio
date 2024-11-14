@@ -14,7 +14,7 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Experienced Frontend Developer specializing in ReactJS, with a
+              Frontend Developer specializing in ReactJS, with a
               proven track record of building dynamic and efficient user
               interfaces for web applications.
             </p>
@@ -38,33 +38,33 @@ const About = () => {
             </div>
             <div className="about-skill">
               <p>JavaScript</p>
-              <hr style={{ width: "50%" }} />
-            </div>
-            <div className="about-skill">
-              <p>MySql</p>
               <hr style={{ width: "40%" }} />
             </div>
             <div className="about-skill">
-              <p>MongoDB</p>
-              <hr style={{ width: "45%" }} />
+              <p>SQL</p>
+              <hr style={{ width: "60%" }} />
+            </div>
+            <div className="about-skill">
+              <p>C++/C</p>
+              <hr style={{ width: "65%" }} />
             </div>
           </div>
         </div>
       </div>
       <div className="about-achievements">
         <div className="about-achievement">
-          <h1>8+</h1>
-          <p>PROJECTS COMPLETED</p>
-        </div>
-        <hr />
-        <div className="about-achievement">
-          <h1>400+</h1>
+          <h1>600+</h1>
           <p>LEETCODE PROBLEMS SOLVED</p>
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>200+</h1>
+          <h1>300+</h1>
           <p>GFG PROBLEMS SOLVED</p>
+        </div>
+        <hr />
+        <div className="about-achievement">
+          <h1>5 Star</h1>
+          <p>HACKERRANK PROBLEMS SOLVER</p>
         </div>
         
       </div>

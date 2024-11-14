@@ -8,7 +8,7 @@ const Hero = () => {
   };
 
   const handleResumeRedirect = () => {
-    window.location.href = 'https://drive.google.com/file/d/1WA3Kdbz9Y0BqvFOvPcmyu_Hl7V2_Aa-M/view?usp=sharing';
+    window.location.href = 'https://drive.google.com/file/d/1E8JTSDDUUVmrM6GYBZVhPz_vwfxhDN1O/view?usp=sharing' ;
   };
 
   return (
@@ -16,7 +16,9 @@ const Hero = () => {
       <div className="hero">
         <img src={profile} alt="Profile" />
         <h1>
-          <span>I'm Siddharth Pandey</span>, Frontend Developer.
+          <span>I'm Siddharth Pandey</span>
+          <br />
+          <span>Aspiring Software Engineer</span>
         </h1>
       </div>
       <div className="hero-action">
